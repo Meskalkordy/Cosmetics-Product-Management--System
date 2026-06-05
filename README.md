@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="iug_logo.png" width="150" alt="Islamic University of Gaza Logo">
-</p>
-
-<p align="center"><b>كلية الهندسة - قسم هندسة الحاسوب</b></p>
 
 # Cosmetics Product Management System (CPMS) 💄
 
